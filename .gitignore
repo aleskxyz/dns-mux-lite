@@ -1,0 +1,22 @@
+# Binaries
+dns-mux-lite
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+dist/
+bin/
+
+# Go modules / tooling
+vendor/
+
+# Editor / OS cruft
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
